@@ -2,7 +2,7 @@
   <img src="./download0/cache/splash_screen/aHR0cHM6Ly93d3cueW91dHViZS5jb20vdHY=/icon0.png" width="128" />
 </p>
 
-<h1 align="center">PS5 Y2JB Autoloader V0.5 Skins</h1>
+<h1 align="center">PS5 Y2JB Autoloader V0.5 UI</h1>
 
 <p align="center">
   <em>Modern monochrome UI with stable long-run behavior, optimized for PS5 WebKit rendering.</em>
