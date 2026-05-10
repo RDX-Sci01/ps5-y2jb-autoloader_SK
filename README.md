@@ -1,23 +1,12 @@
 <p align="center">
-  <img src="./download0/cache/splash_screen/aHR0cHM6Ly93d3cueW91dHViZS5jb20vdHY=/icon0.png" width="128" />
+  <img width="128" alt="image" src="https://github.com/user-attachments/assets/c1ec5d6b-87a1-4fc6-9760-aa4fe691c86f" />
+
 </p>
 
 <h1 align="center">PS5 Y2JB Autoloader V0.5 UI</h1>
 
 <p align="center">
   <em>Modern monochrome UI with stable long-run behavior, optimized for PS5 WebKit rendering.</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RDX-Sci01/ps5-y2jb-autoloader_SK/stargazers">
-    <img src="https://img.shields.io/github/stars/RDX-Sci01/ps5-y2jb-autoloader_SK?style=social" alt="GitHub Stars"/>
-  </a>
-  <a href="https://github.com/RDX-Sci01/ps5-y2jb-autoloader_SK/issues">
-    <img src="https://img.shields.io/github/issues/RDX-Sci01/ps5-y2jb-autoloader_SK" alt="GitHub Issues"/>
-  </a>
-  <a href="https://github.com/RDX-Sci01/ps5-y2jb-autoloader_SK/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-GPL--3.0-blue" alt="License"/>
-  </a>
 </p>
 
 <p align="center">
